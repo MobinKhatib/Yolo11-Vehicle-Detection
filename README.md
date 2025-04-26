@@ -22,12 +22,11 @@ Validition : 10%
 
 Test : 10%
 
+git clone https://github.com/MaryamBoneh/Vehicle-Detection
+cd Vehicle-Detection
+pip install -r requirements.txt
 
- ## 🚀 Installation 
- 1. Clone the repo:
-    
-    ```git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git cd Yolo11-Vehicle-Detection ```
-
-3. Install dependencies:
-
+ ## 🚀 Clone Vehicle-Detection Repository 
+    ```git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git```
+    ```cd Yolo11-Vehicle-Detection```
    ```pip install -r requirements.txt ```
