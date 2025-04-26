@@ -1,12 +1,14 @@
-🚗 Vehicle and License Plate Detection System
-This repository detects vehicles and extracts license plates from images under all lighting conditions — whether it's bright daytime or the darkness of night.
-The system uses advanced YOLO models for reliable detection and is designed to handle challenging real-world environments.
+# 🚗 Vehicle and License Plate Detection
 
-✨ Features
-Vehicle detection
+This project detects vehicles and extracts license plates from images under any lighting conditions — whether it's daylight or nighttime. It uses YOLO-based deep learning models to perform reliable and efficient detection.
 
-License plate extraction
+## 📌 Features
+- Vehicle detection from static images
+- License plate extraction
+- Works in various lighting conditions (day/night)
+- Uses the [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) framework
 
-Works in day and night conditions
+## 🖼️ Sample Output
+*(You can add images in the `/assets` folder and link them here)*
 
-Based on YOLO deep learning models
+## 📂 Folder Structure
