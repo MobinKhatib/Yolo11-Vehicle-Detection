@@ -22,10 +22,6 @@ Validition : 10%
 
 Test : 10%
 
-git clone https://github.com/MaryamBoneh/Vehicle-Detection
-cd Vehicle-Detection
-pip install -r requirements.txt
-
  ## 🚀 Clone Vehicle-Detection Repository 
 ```bash
 git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git
