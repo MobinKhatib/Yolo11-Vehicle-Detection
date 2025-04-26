@@ -24,6 +24,7 @@ Validition : 10%
 Test : 10%
 
  ## 🚀 Clone Vehicle-Detection Repository 
+ This is done in colab, but if you want to do it by your own system you can clone it
 ```bash
 git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git
 cd Yolo11-Vehicle-Detection
