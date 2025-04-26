@@ -27,6 +27,6 @@ cd Vehicle-Detection
 pip install -r requirements.txt
 
  ## 🚀 Clone Vehicle-Detection Repository 
-    ```git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git```
-    ```cd Yolo11-Vehicle-Detection```
-   ```pip install -r requirements.txt ```
+```git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git
+cd Yolo11-Vehicle-Detection
+pip install -r requirements.txt ```
