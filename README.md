@@ -29,6 +29,7 @@ git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git
 cd Yolo11-Vehicle-Detection
 pip install -r requirements.txt
 ```
+
 ## 🤝 Contributing
 Fork it (https://github.com/MobinKhatib/Yolo11-Vehicle-Detection)
 
