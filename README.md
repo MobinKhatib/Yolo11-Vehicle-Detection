@@ -10,6 +10,7 @@ This project detects vehicles and extracts license plates from images under any 
 
 ## 🖼️ Sample Output
 *(We can add images in the `/assets` folder and link them here)*
+
 **(Train YOLO 11 on a Custom Dataset)
 ## 📂 Folder Structure
 
@@ -27,4 +28,15 @@ Test : 10%
 git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git
 cd Yolo11-Vehicle-Detection
 pip install -r requirements.txt
+
+## Contributing
+Fork it (https://github.com/MobinKhatib/Yolo11-Vehicle-Detection)
+
+Create your feature branch (git checkout -b feature/fooBar)
+
+Commit your changes (git commit -am 'Add some fooBar')
+
+Push to the branch (git push origin feature/fooBar)
+
+Create a new Pull Request
 
