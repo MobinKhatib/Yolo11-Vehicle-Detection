@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/dataset_Car_Plate # Root directory of your dataset
+train: images/train     # Path to training images (relative to `path`)
+val: images/val         # Path to validation images (relative to `path`)
+test: images/test       # Path to test images (optional, relative to `path`)
+
+names:
+  0: Car
+  1: Plate
+  2: PlateFreeZone

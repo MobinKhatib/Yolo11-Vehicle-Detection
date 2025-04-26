@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+.env
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+Dataset/dataset_Car_Plate-20250211T111310Z-001.zip
+Results/training_results_CarPlate-20250218T083132Z-001.zip
+Final.ipynb
+weights/
