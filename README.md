@@ -29,6 +29,5 @@ Test : 10%
 git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git
 cd Yolo11-Vehicle-Detection
 
-Install dependencies:
-```bash
+2. Install dependencies:
 pip install -r requirements.txt
