@@ -6,7 +6,7 @@ This project detects vehicles and extracts license plates from images under any 
 - Vehicle detection from static images
 - License plate extraction
 - Works in various lighting conditions (day/night)
-- Uses the [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) framework
+- Uses the [Ultralytics YOLO11](https://github.com/ultralytics/ultralytics) framework
 
 ## 🖼️ Sample Output
 *(We can add images in the `/assets` folder and link them here)*
