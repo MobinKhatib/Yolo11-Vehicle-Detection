@@ -23,11 +23,9 @@ Validition : 10%
 Test : 10%
 
 
-## 🚀 Installation
-1. Clone the repo:
-```bash
-git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git
-cd Yolo11-Vehicle-Detection
+ ## 🚀 Installation 
+ 1. Clone the repo:
+    ```bash git clone https://github.com/MobinKhatib/Yolo11-Vehicle-Detection.git cd Yolo11-Vehicle-Detection ```
 
 2. Install dependencies:
-pip install -r requirements.txt
+   ```bash pip install -r requirements.txt ```
